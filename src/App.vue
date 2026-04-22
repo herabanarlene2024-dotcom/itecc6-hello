@@ -2,7 +2,8 @@
   <div class="app">
     <h1>{{ message }}</h1>
     <p>Welcome to ITECC6!</p>
-    <p>Created by: Arlene Heraban</p>
+    <p>Student: Your Full Name Here</p>
+    <p>Course: BSIT</p>
   </div>
 </template>
 
